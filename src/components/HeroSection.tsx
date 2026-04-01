@@ -56,7 +56,7 @@ const HeroSection = () => {
           className="mb-8 inline-block"
         >
           <div className="w-36 h-36 md:w-44 md:h-44 rounded-full p-1 glow-border mx-auto" style={{ background: "linear-gradient(135deg, hsl(var(--gradient-start)), hsl(var(--gradient-end)))" }}>
-            <div className="w-full h-full rounded-full bg-card flex items-center justify-center text-4xl font-heading font-bold gradient-text">
+            <div className="w-full h-full rounded-full bg-background flex items-center justify-center text-5xl font-heading font-bold text-foreground">
               VJ
             </div>
           </div>
