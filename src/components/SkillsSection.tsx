@@ -7,6 +7,7 @@ const skills = [
   { name: "Python", level: 75 },
   { name: "AI / ML Basics", level: 60 },
   { name: "Git & GitHub", level: 75 },
+  { name: "Data Structures", level: 50 },
 ];
 
 const SkillsSection = () => {
